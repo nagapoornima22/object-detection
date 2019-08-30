@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>71701.jpg</filename>
+	<path>C:\Users\T Poornima\PycharmProjects\object_detection\images\test\71701.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>french_fries</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>51</ymin>
+			<xmax>685</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>14043.jpg</filename>
+	<path>C:\Users\T Poornima\PycharmProjects\object_detection\images\test\14043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hot_dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>111</ymin>
+			<xmax>455</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>
