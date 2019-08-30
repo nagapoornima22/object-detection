@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>153823.jpg</filename>
+	<path>C:\Users\T Poornima\PycharmProjects\object_detection\images\train\153823.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>french_fries</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>188</ymin>
+			<xmax>741</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>
